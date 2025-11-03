@@ -103,7 +103,7 @@ Ingrese su nombre: Isaac Mejía
 Ingrese su email: isaac@eia.edu.co
 Ingrese una contraseña: ****
 Dirección de envío: Calle 10 #5
-Teléfono: 3216549870
+Teléfono: 32165.....
 
  MENÚ PRINCIPAL
 1. Ver catálogo de productos
