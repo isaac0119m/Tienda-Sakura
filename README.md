@@ -121,10 +121,3 @@ Thomas gonzales - Estudiante Ingenieria de sistemas
 Materia: Programación Orientada a Objetos
 
 Universidad EIA – Proyecto académico de segundo semestre
-
-Docente: (colocar el nombre del profesor si lo deseas)
-
-(Licencia)
-
-Este proyecto se distribuye bajo la licencia MIT.
-Puedes usar, modificar y mejorar el código con fines educativos o de práctica profesional, citando la fuente original del proyecto.
